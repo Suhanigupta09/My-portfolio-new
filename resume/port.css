@@ -42,6 +42,7 @@ a{
 .me{
     border: 2px solid black;
     height: 400px;
+<<<<<<< HEAD
     width: 400px;
     border-radius: 50%;
     background-color: aqua;
@@ -64,3 +65,10 @@ a{
     font-size: 20px;
 }
 
+=======
+    width:400px;
+    margin-left: 850px;
+    background-image: url(../resume/me1.jpg);
+    background-size: cover;
+}
+>>>>>>> 7a7bff3bae278d7f24aa2b66944c663ec9e98d84
